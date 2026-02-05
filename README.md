@@ -6,7 +6,7 @@ A simple **Burger Shop Management System** developed using **Java**.
 This project is designed to manage burger orders, calculate totals, and handle customer billing.
 
 ---
-
+--------------------------------------------------------------------------
 ## 📌 Features
 
 ✅ Add Burger Orders  
@@ -17,6 +17,7 @@ This project is designed to manage burger orders, calculate totals, and handle c
 ✅ User Friendly Console Interface  
 
 ---
+---------------------------------------------------------------------------
 
 ## 🛠️ Technologies Used
 
@@ -26,6 +27,7 @@ This project is designed to manage burger orders, calculate totals, and handle c
 - Array / ArrayList (depending on your implementation)
 
 ---
+------------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
