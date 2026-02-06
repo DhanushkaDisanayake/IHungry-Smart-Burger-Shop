@@ -14,6 +14,7 @@ This project is designed to manage burger orders, calculate totals, and handle c
 ✅ Simple Menu System  
 ✅ User Friendly Console Interface  
 
+------------------------------------------------------
 
 ## 🛠️ Technologies Used
 
